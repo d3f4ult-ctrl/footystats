@@ -20,6 +20,9 @@ A website that has footballers nd their stats. Purely in Vanilla JS, CSS and HTM
 - Player's Assists.
 - Player's Total Goal Contributions.
 
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/b8e194e2-2717-4871-85d4-9875c51dc21b" />
+
+
 ## Contributor
 Asher Mangala, Student.
 
