@@ -8,7 +8,7 @@ A website that has footballers nd their stats. Purely in Vanilla JS, CSS and HTM
 - Git - Version control
 
 ## Live Demo
-
+[Live Demo](https://d3f4ult-ctrl.github.io/footystats/)
 
 ## Features
 - Player's Name.
